@@ -616,7 +616,7 @@ a:hover::after {
   }
   .cloud_abs_block img {
     bottom: 80px !important;
-    height: 51px;
+    height: 80px;
   }
   .horse_abs_image img {
     width: 189px;
