@@ -273,9 +273,8 @@ body {
 .wrapper {
   position: relative;
 }
-/*  */
 .header {
-  min-overflow: hidden;
+  overflow: hidden;
   position: relative;
   height: 948px;
   background-image: url("../img/backgroundHome.jpg");
@@ -2353,4 +2352,5 @@ width: 45%;
   .map_blokc{
     height: 13  00px;
   }
+}
 }
